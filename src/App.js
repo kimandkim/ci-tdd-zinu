@@ -9,5 +9,5 @@ function App() {
     </div>
   );
 }
-
+// App component kingminjae
 export default App;
